@@ -34,7 +34,6 @@
 * 📝 Notlar:
   - Bu proje, kullanıcıların uygulamanın temel işlevlerine erişimini sağlar. 🎯
   - Menüler ve butonlar, kullanıcı dostu arayüz sağlamak için tasarlanmıştır. 🎨
-  - Her menü öğesi, ilgili işlevselliği temsil eden bir emoji ile eşlenmiştir. 🖼️
 
      
 
